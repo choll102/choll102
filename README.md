@@ -16,8 +16,8 @@ Hi, I'm Truong Van Trung, a final-year student 🚀 from HUFLIT. Beside's progra
 
 **Languages and Tools:**  
 
-<img src="https://img.icons8.com/color/40/000000/golang.png"/>
-<img src="https://img.icons8.com/color/40/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/dart.png"/>
+<code> <img src="https://img.icons8.com/color/35/000000/golang.png"/> </code>
+<code><img src="https://img.icons8.com/color/35/000000/flutter.png"/></code>
+<code><img src="https://img.icons8.com/color/35/000000/postgreesql.png"/></code>
+<code><img src="https://img.icons8.com/color/35/000000/mysql-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/35/000000/dart.png"/></code>
