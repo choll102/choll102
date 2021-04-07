@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @choll102
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey 👋🏽, I'm Trung
 
-<!---
-choll102/choll102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+Hi, I'm Truong Van Trung, a final-year student 🚀 from HUFLIT. Beside's programming, Do as you think best....
+  
+  <img  align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ 
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently studying
+- 🌱 I’m currently learning Mobile and Backend 
+- 📫 How to reach me: ttt456tt@gmail.com
+- 📝[Resume](https://www.linkedin.com/in/trương-văn-trung-244ba5190/)
+
+**Languages and Tools:**  
+
+<img src="https://img.icons8.com/color/40/000000/golang.png"/>
+<img src="https://img.icons8.com/color/40/000000/flutter.png"/>
+<img src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png"/>
