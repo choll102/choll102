@@ -21,3 +21,5 @@ Hi, I'm Truong Van Trung, a developer with 4 years of experience in Web Developm
 <code><img src="https://img.icons8.com/color/35/000000/postgreesql.png"/></code>
 <code><img src="https://img.icons8.com/color/35/000000/mysql-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/35/000000/dart.png"/></code>
+<code><img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000/></code>
+
