@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi, I'm Truong Van Trung, a final-year student 🚀 from HUFLIT. Beside's programming, Do as you think best....
+Hi, I'm Truong Van Trung, a developer with 4 years of experience in Web Development, Software Testing, and Data-entry 🚀. Beside's programming, Do as you think best....
   
   <img  align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
