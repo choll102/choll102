@@ -9,8 +9,8 @@ Hi, I'm Truong Van Trung, a developer with 4 years of experience in Web Developm
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently studying
-- 🌱 I’m currently learning Mobile and Backend 
+- 👨🏽‍💻 Web Developer | Data Entry | Data Scraping
+- 🌱 I am a versatile professional offering expertise in Web Development, efficient Data Entry, and precise Data Scraping
 - 📫 How to reach me: ttt456tt@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/trương-văn-trung-244ba5190/)
 
