@@ -10,7 +10,7 @@ Hi, I'm Truong Van Trung, a developer with 4 years of experience in Automation T
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Automation Test Engineer | Data Scraping
-- 🌱 I am a versatile professional offering expertise in Web Development, efficient Data Entry, and precise Data Scraping
+- 🌱 I am a versatile professional offering expertise in Automation Test Engineer , and precise Data Scraping
 - 💼 Upwork: https://www.upwork.com/freelancers/~01569f0d85675c487c
 - 📫 How to reach me: truongtrung102.work@gmail.com
 - 📝 Resume: https://www.linkedin.com/in/trương-văn-trung-244ba5190/
